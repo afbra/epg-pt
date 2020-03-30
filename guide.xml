@@ -1,11 +1,3 @@
-<html> 
-<head> 
-<link rel="stylesheet" href="plaintext.css">
-</head>
-<body> 
-
-<pre>
-
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="rtp1.pt">
@@ -5696,9 +5688,3 @@
     <title lang="pt">Jersey Shore: Family Vacation T.3 Ep.17</title>
   </programme>
 </tv>
-
-</pre>
-
-</body>
-
-</html>
